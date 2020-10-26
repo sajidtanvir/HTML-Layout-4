@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+overflow: hidden;
+}
+.logo{
+background-color: #76E332;
+width: 20%;
+height: 50px;
+float: left;
+text-align: center;
+}
+.logo h1{
+padding: 3px;
+}
+.bar{
+background-color: #99FF5D;
+width: 80%;
+height: 50px;
+float: right;
+text-align: center;
+}
+.bar h1{
+    padding: 3px;
+}
+.menu-bar{
+    background-color: #5756FE;
+    text-align: center;
+    height: 50px;
+}
+.menu-bar h1{
+    color: white;
+    padding: 3px;
+}
+.article{
+overflow: hidden;
+}
+.left{
+width: 35%;
+height: 600px;
+float: left;
+background-color: #FF5A5A;
+}
+.center{
+    width: 35%;
+    height: 600px;
+    float: left;
+    background-color: #72C7FF;
+}
+.right{
+    width: 30%;
+    height: 600px;
+    float: right;
+    background-color: #363636;
+}
+.left-top{
+    height: 25%;
+    text-align: center;
+    background-color: #FF5A5A;
+}
+.left-top h1{
+    padding: 50px;
+}
+.left-center{
+    height: 25%;
+    text-align: center;
+    background-color: #EE4C4A;
+}
+.left-center h1{
+    padding: 50px;
+}
+.left-bottom{
+    height: 50%;
+    text-align: center;
+    background-color: #E14246;
+}
+.left-bottom{
+    padding: 120px;
+}
+.center-top{
+    height: 40%;
+    background-color: #72C7FF;
+    text-align: center;
+}
+.center-top h1{
+    padding: 100px;
+}
+.center-bottom{
+    height: 60%;
+    background-color: #54B1EC;
+    text-align: center;
+}
+.center-bottom h1{
+    padding: 150px;
+}
+.right-top{
+    height: 20%;
+    text-align: center;
+    background-color: #363636;
+}
+.right-top h1{
+    color: white;
+    padding: 40px;
+}
+.right-center{
+    height: 50%;
+    text-align: center;
+    background-color: #1A1A1A;
+}
+.right-center h1{
+    color: white;
+    padding: 130px;
+}
+.right-bottom{
+    height: 30%;
+    text-align: center;
+    background-color: #8C5630;
+}
+.right-bottom h1{
+    color: white;
+    padding: 70px;
+}
+footer{
+    background-color: #2F60BD;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+footer h1{
+    color: white;
+    padding: 30px;
+}
